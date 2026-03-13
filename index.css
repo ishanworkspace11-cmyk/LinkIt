@@ -1,0 +1,46 @@
+input{
+    margin: 2px;
+    height: 40px;
+    width: 300px;
+    border-color: #457d0d;
+    padding: 5px;
+    font-size:18px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    min-width: 400px;
+}
+.save-btn{
+    margin: 2px;
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    font: bold;
+    color: antiquewhite;
+    text-align: center;
+    background-color:  #457d0d;
+    border-radius: 5px;
+}
+.delete-btn{
+    margin: 2px;
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    font: bold;
+    color: #457d0d;
+    text-align: center;
+    background-color: white ;
+    border-radius: 5px;
+}
+ul{
+    margin-top: 20px;
+    list-style-type: none;
+    padding-left: 0px;
+}
+li{
+    margin-top: 5px;
+    color: #457d0d;
+}
+li a{
+    color: #457d0d;
+    font-size: 20px;
+}
